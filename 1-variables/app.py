@@ -37,5 +37,8 @@ print(name)
 
 print("* " * 20)
 
+print(ord("a"))
+# 97
+
 
 
